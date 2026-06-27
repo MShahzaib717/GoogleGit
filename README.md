@@ -1,2 +1,4 @@
-# GoogleGit
-This is my assessment repository 
+# GoogleGIT
+I am editing the README file. Adding 
+some more details about the project
+description.
